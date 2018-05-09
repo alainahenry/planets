@@ -1,1 +1,3 @@
-jupiter is a gas giant. 
+jupiter is a gas giant.
+
+jupiter has moons.  
